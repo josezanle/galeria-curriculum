@@ -1,12 +1,38 @@
+import Link from "next/link";
+
 const Footer = () => {
   return (
     <div className="footer">
       <h2>Contacto</h2>
       <div className="redes">
-        <p>Linkedin</p>
-        <p>Facebook</p>
-        <p>Instagram</p>
-        <p>Youtube</p>
+        <a
+          href="https://www.linkedin.com/in/jose-rios-lm"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Linkedin
+        </a>
+        <a
+          href="https://www.facebook.com/Josezanle/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Facebook
+        </a>
+        <a
+          href="https://www.instagram.com/joze.rios/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Instagram
+        </a>
+        <a
+          href="https://www.youtube.com/user/ian44ful"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Youtube
+        </a>
       </div>
 
       <style jsx>
@@ -32,11 +58,12 @@ const Footer = () => {
             justify-content: center;
             align-items: center;
           }
-          p {
+
+          a {
             color: silver;
             margin: 0 0.5em;
           }
-          p:hover {
+          a:hover {
             color: white;
             cursor: pointer;
           }

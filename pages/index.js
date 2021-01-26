@@ -1,16 +1,16 @@
 import Head from "next/head";
 // import styles from '../styles/Home.module.css'
-import Banner from "../components/banner/index";
-import Footer from "../components/footer/index";
+
+import Banner from "../components/banner";
 import Galery from "../components/galery";
+import Footer from "../components/footer";
 
 export default function Home() {
   return (
     <div>
       <Head>
-        <title>Create Next App</title>
-        <link rel="icon" href="/favicon.ico" />
-        // rel="noopener noreferrer"
+        <title>Galeria | Rios Jose</title>
+        <link rel="icon" href="/gem-regular.svg" />
       </Head>
 
       <main>
