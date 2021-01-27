@@ -1,5 +1,3 @@
-import Button from "../button";
-
 const webs = [
   {
     id: 1,
