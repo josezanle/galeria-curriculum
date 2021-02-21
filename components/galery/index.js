@@ -38,6 +38,14 @@ const webs = [
       "We-chatbot, es una extencion de la web principal, WeBuildWebz, donde empleamos este servicio para nuestros clientes.",
     url: "https://www.chatbot.webuildwebz.com/",
   },
+  {
+    id: 6,
+    image_url:
+      "https://firebasestorage.googleapis.com/v0/b/sql-demos-3f601.appspot.com/o/image.jpg?alt=media&token=0ee2a779-1a7d-4a2f-9365-ee2aecc05aeb",
+    description:
+      "Globi, es un proyecto de origen Mexicano, encuentra su dispocion en el servicio de taxi, mediante una app, proyecto en proceso de formacion.",
+    url: "https://www.globy.dancotll.com/",
+  },
 ];
 const Galery = () => {
   return (
