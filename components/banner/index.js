@@ -5,7 +5,7 @@ const Banner = () => {
         <h1>Hola, soy Jose Rios</h1>
         <h4>
           Y esta es una galeria que muestra mis proyectos webs realizados de
-          manera freelance, a travez de la empresa Dancotll, situada en Buenos
+          manera freelance, a travez de la empresa WeBuildWebz, situada en Buenos
           Aires, Argentina.
         </h4>
         <br />

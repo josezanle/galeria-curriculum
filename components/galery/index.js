@@ -2,10 +2,9 @@ const webs = [
   {
     id: 1,
     image_url:
-      "https://firebasestorage.googleapis.com/v0/b/sql-demos-3f601.appspot.com/o/image.jpg?alt=media&token=0ee2a779-1a7d-4a2f-9365-ee2aecc05aeb",
-    description:
-      "Globy, es una empresa Mexicana de taxi al estilo Uber, en proceso de formacion.",
-    url: "https://www.globy.dancotll.com/",
+      "https://firebasestorage.googleapis.com/v0/b/sql-demos-3f601.appspot.com/o/portada-portfolio.jpg?alt=media&token=fcc58a63-1720-4043-ad94-3db6ed9cda42",
+    description: "El primer portfolio web que hice, orientado al diseño ux/ui.",
+    url: "https://jose-rios.netlify.app/#/",
   },
   {
     id: 2,
@@ -14,20 +13,14 @@ const webs = [
     description: "Zanle Group, web para freelance, dirigida a Latino America",
     url: "https://zanle-group.vercel.app/",
   },
+
   {
     id: 3,
-    image_url:
-      "https://firebasestorage.googleapis.com/v0/b/zanle-group.appspot.com/o/banner-jose-rios-netlify.jpg?alt=media&token=e04a90c5-4dde-47cc-9179-a46f17c6f25b",
-    description: "El primer portfolio web que hice, orientado al diseño ux/ui.",
-    url: "https://jose-rios.netlify.app/#/",
-  },
-  {
-    id: 4,
     image_url:
       "https://firebasestorage.googleapis.com/v0/b/zanle-group.appspot.com/o/banner-horacio-muebles.jpg?alt=media&token=4ca6934f-b088-49a0-9a9a-723bb05b1db5",
     description:
       "Muebles-Horacio, una tienda digital, de caracter informativa, en la que el publico contacta al vendedor.",
-    url: "https://jose-rios.netlify.app/#/",
+    url: "https://www.muebles.dancotll.com/",
   },
   {
     id: 4,
