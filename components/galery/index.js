@@ -17,12 +17,35 @@ const webs = [
   {
     id: 3,
     image_url:
-      "https://firebasestorage.googleapis.com/v0/b/sql-demos-3f601.appspot.com/o/portada-portfolio.jpg?alt=media&token=fcc58a63-1720-4043-ad94-3db6ed9cda42",
+      "https://firebasestorage.googleapis.com/v0/b/zanle-group.appspot.com/o/banner-jose-rios-netlify.jpg?alt=media&token=e04a90c5-4dde-47cc-9179-a46f17c6f25b",
     description: "El primer portfolio web que hice, orientado al diseño ux/ui.",
     url: "https://jose-rios.netlify.app/#/",
   },
+  {
+    id: 4,
+    image_url:
+      "https://firebasestorage.googleapis.com/v0/b/zanle-group.appspot.com/o/banner-horacio-muebles.jpg?alt=media&token=4ca6934f-b088-49a0-9a9a-723bb05b1db5",
+    description:
+      "Muebles-Horacio, una tienda digital, de caracter informativa, en la que el publico contacta al vendedor.",
+    url: "https://jose-rios.netlify.app/#/",
+  },
+  {
+    id: 4,
+    image_url:
+      "https://firebasestorage.googleapis.com/v0/b/zanle-group.appspot.com/o/banner-webuildwebz.jpg?alt=media&token=cca05d1d-42e8-445e-a346-21c6d4686bfc",
+    description:
+      "En esta nueva entrega, WeBuildWebz, es una plataforma para exponer nuestros trabajos como freelance y buscar clientes, proyecto en colaboracion con el Backend, Leandro Cotti.",
+    url: "https://www.webuildwebz.com/",
+  },
+  {
+    id: 5,
+    image_url:
+      "https://firebasestorage.googleapis.com/v0/b/zanle-group.appspot.com/o/we-chatbot-banner.png?alt=media&token=714cb48c-c71f-44c4-b79f-91c87c13a209",
+    description:
+      "We-chatbot, es una extencion de la web principal, WeBuildWebz, donde empleamos este servicio para nuestros clientes.",
+    url: "https://www.chatbot.webuildwebz.com/",
+  },
 ];
-
 const Galery = () => {
   return (
     <div className="galery">
@@ -64,7 +87,7 @@ const Galery = () => {
           .card {
             width: 300px;
             height: 400px;
-            border: 0.5em solid #ebebeb;
+            border: 0.3em solid #ebebeb;
             border-radius: 1em;
             padding: 1em;
             margin: 0.5em;
@@ -81,7 +104,7 @@ const Galery = () => {
             height: 100%;
           }
           img {
-            width: 252px;
+            width: 100%;
             height: 196px;
             border-radius: 0.5em;
             object-fit: cover;
