@@ -27,7 +27,7 @@ const webs = [
     image_url:
       "https://firebasestorage.googleapis.com/v0/b/zanle-group.appspot.com/o/banner-webuildwebz.jpg?alt=media&token=cca05d1d-42e8-445e-a346-21c6d4686bfc",
     description:
-      "En esta nueva entrega, WeBuildWebz, es una plataforma para exponer nuestros trabajos como freelance y buscar clientes, proyecto en colaboracion con el Backend, Leandro Cotti.",
+      "WeBuildWebz, es una plataforma para buscar clientes, proyecto en colaboracion con el Backend, Leandro Cotti.",
     url: "https://www.webuildwebz.com/",
   },
   {
