@@ -43,7 +43,7 @@ const webs = [
     image_url:
       "https://firebasestorage.googleapis.com/v0/b/sql-demos-3f601.appspot.com/o/image.jpg?alt=media&token=0ee2a779-1a7d-4a2f-9365-ee2aecc05aeb",
     description:
-      "Globi, es un proyecto de origen Mexicano, encuentra su dispocion en el servicio de taxi, mediante una app, proyecto en proceso de formacion.",
+      "Globi, es un proyecto de origen Mexicano, encuentra su disposición en el servicio de taxi, mediante una app, proyecto en proceso de formación.",
     url: "https://www.globy.dancotll.com/",
   },
 ];
